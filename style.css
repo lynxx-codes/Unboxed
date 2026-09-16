@@ -153,6 +153,13 @@ p{ margin: 0; }
   height: 76px;
 }
 
+
+.site-nav .logo img {
+  width: 50px;
+  height: auto;
+  display: block;
+}
+
 .nav-mark{
   display: flex;
   align-items: baseline;
@@ -226,6 +233,7 @@ p{ margin: 0; }
   font-size: 1.5rem;
   cursor: pointer;
 }
+
 
 @media (max-width: 820px){
   .nav-links{
