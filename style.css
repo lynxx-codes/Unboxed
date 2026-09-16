@@ -163,9 +163,9 @@ p{ margin: 0; }
 .nav-mark{
   display: flex;
   align-items: baseline;
-  gap: 0.55rem;
+  gap: 0.40rem;
   font-family: var(--serif);
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   letter-spacing: 0.02em;
 }
 .nav-mark .dot{ color: var(--brass); font-size: 1.1rem; }
