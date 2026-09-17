@@ -359,6 +359,52 @@ p{ margin: 0; }
   margin-top: 0.2rem;
 }
 
+/* ============================================================
+   Add these rules to your existing style.css.
+   They make the product photos, bag thumbnails, hero photo,
+   and logo display correctly instead of breaking the layout.
+   ============================================================ */
+
+/* Product card photos */
+.product-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Bag panel thumbnail photos */
+.bag-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: inherit;
+}
+
+/* Hero background photo — keep it behind the text, not on top */
+.hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-mark {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+  opacity: 0.25; /* raise toward 1 for a fully visible photo */
+}
+
+/* Logo image sizing */
+.logo img {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
 /* ---------------- Section shell ---------------- */
 
 section{ position: relative; }

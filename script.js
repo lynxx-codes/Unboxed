@@ -15,21 +15,19 @@
   const money = (n) => "₦" + n.toLocaleString("en-NG");
 
   /* ---------------- Product data ----------------
-     Placeholder catalogue — swap names, notes, prices and photo
-     placeholders for the real shelf whenever ready. Each product's
-     "photo" is a labelled placeholder box until real images are added.
+     Each product needs its "image" path wrapped in quotes since
+     it's a text value, not real JavaScript code.
   --------------------------------------------------- */
   const PRODUCTS = [
-    { id: "p1", name: "Baccarat Rouge 540", house: "Maison Francis Kurkdjian", kind: "niche", tag: "Tester-checked", notes: "Saffron, jasmine, amberwood", size: "70ml", price: 185000, images: images/bacarrat.jpg},
-    { id: "p2", name: "Oud Wood", house: "Tom Ford Private Blend", kind: "unisex", tag: "Best seller", notes: "Rare oud, sandalwood, vetiver", size: "50ml", price: 165000, images: images/download.jpeg},
-    { id: "p3", name: "Black Orchid", house: "Tom Ford", kind: "women", tag: "Tester-checked", notes: "Black truffle, ylang-ylang, patchouli", size: "50ml",
-       price: 98000, images: images/oudwood.jpeg},
-    { id: "p4", name: "Sauvage Elixir", house: "Dior", kind: "men", tag: "Restocked", notes: "Bergamot, cardamom, vanilla", size: "60ml", price: 112000, images: images/dior.jpeg},
-    { id: "p5", name: "Delina", house: "Parfums de Marly", kind: "women", tag: "Niche pick", notes: "Turkish rose, lychee, musk", size: "75ml", price: 145000, images: images/parfums.jpeg},
-    { id: "p6", name: "Layton", house: "Parfums de Marly", kind: "men", tag: "Tester-checked", notes: "Apple, lavender, vanilla", size: "75ml", price: 138000, images: images/delina.jpeg},
-    { id: "p7", name: "Aventus", house: "Creed", kind: "men", tag: "Signature", notes: "Pineapple, birch, musk", size: "50ml", price: 175000, images: images/gemini-2.5-flash-image_A_promotional_photo_of_a_perfume_product._Shot_from_an_extreme_low_angle_looking-0 (1).jpg},
-    { id: "p8", name: "Good Girl", house: "Carolina Herrera", kind: "women", tag: "Fixed price", notes: "Tuberose, cacao, tonka bean", size: "50ml", price: 92000, images: images/gemini-2.5-flash-image_A_promotional_photo_of_a_perfume_product._Shot_from_an_extreme_low_angle_looking-0 (1).jpeg},
-    { id: "p9", name: "Interlude Man", house: "Amouage", kind: "niche", tag: "Rare find", notes: "Incense, oud, smoked woods", size: "50ml", price: 195000, images: images/gemini-2.5-flash-image_A_promotional_photo_of_a_perfume_product._Shot_from_an_extreme_low_angle_looking.jpeg},
+    { id: "p1", name: "Baccarat Rouge 540", house: "Maison Francis Kurkdjian", kind: "niche", tag: "Tester-checked", notes: "Saffron, jasmine, amberwood", size: "70ml", price: 185000, image: "images/bacarrat.jpg" },
+    { id: "p2", name: "Oud Wood", house: "Tom Ford Private Blend", kind: "unisex", tag: "Best seller", notes: "Rare oud, sandalwood, vetiver", size: "50ml", price: 165000, image: "images/download.jpeg" },
+    { id: "p3", name: "Black Orchid", house: "Tom Ford", kind: "women", tag: "Tester-checked", notes: "Black truffle, ylang-ylang, patchouli", size: "50ml", price: 98000, image: "images/oudwood.jpeg" },
+    { id: "p4", name: "Sauvage Elixir", house: "Dior", kind: "men", tag: "Restocked", notes: "Bergamot, cardamom, vanilla", size: "60ml", price: 112000, image: "images/dior.jpeg" },
+    { id: "p5", name: "Delina", house: "Parfums de Marly", kind: "women", tag: "Niche pick", notes: "Turkish rose, lychee, musk", size: "75ml", price: 145000, image: "images/parfums.jpeg" },
+    { id: "p6", name: "Layton", house: "Parfums de Marly", kind: "men", tag: "Tester-checked", notes: "Apple, lavender, vanilla", size: "75ml", price: 138000, image: "images/delina.jpeg" },
+    { id: "p7", name: "Aventus", house: "Creed", kind: "men", tag: "Signature", notes: "Pineapple, birch, musk", size: "50ml", price: 175000, image: "images/aventus.jpg" },
+    { id: "p8", name: "Good Girl", house: "Carolina Herrera", kind: "women", tag: "Fixed price", notes: "Tuberose, cacao, tonka bean", size: "50ml", price: 92000, image: "images/Good girl.jpeg" },
+    { id: "p9", name: "Interlude Man", house: "Amouage", kind: "niche", tag: "Rare find", notes: "Incense, oud, smoked woods", size: "50ml", price: 195000, image: "images/interlude.jpg" },
   ];
 
   /* ---------------- Reviews ---------------- */
@@ -90,7 +88,7 @@
       <article class="product-card" data-kind="${p.kind}">
         <div class="product-photo">
           <span class="product-tag">${p.tag}</span>
-          <span class="ph-label">Photo placeholder<br>${p.name}</span>
+          <img src="${p.image}" alt="${p.name}" loading="lazy">
         </div>
         <div class="product-body">
           <span class="product-kind">${p.house} · ${p.size}</span>
@@ -194,7 +192,7 @@
     const { product, qty } = entry;
     return `
       <div class="bag-row" data-id="${product.id}">
-        <div class="bag-thumb" aria-hidden="true"></div>
+        <div class="bag-thumb" aria-hidden="true"><img src="${product.image}" alt="${product.name}"></div>
         <div class="bag-info">
           <b>${product.name}</b>
           <span>${money(product.price)} · ${product.size}</span>
