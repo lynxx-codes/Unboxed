@@ -16,9 +16,9 @@
 
   /* ----------- EDIT THESE ----------- */
   const FOLDER = "images/gallery/";
-  const TOTAL = 90;          // how many numbered photos you have
+  const TOTAL = ;          // how many numbered photos you have
   const EXTENSION = "jpg";   // jpg, jpeg, png or webp
-  const BATCH = 24;          // photos shown per "Load more" click
+  const BATCH = 2;          // photos shown per "Load more" click
   const FILES = [
     // "black-orchid.jpg",
     // "oud-wood.png",
