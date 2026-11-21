@@ -16,7 +16,7 @@
 
   /* ----------- EDIT THESE ----------- */
   const FOLDER = "images/gallery/";
-  const TOTAL = ;          // how many numbered photos you have
+  const TOTAL = 84;          // how many numbered photos you have
   const EXTENSION = "jpg";   // jpg, jpeg, png or webp
   const BATCH = 84;          // photos shown per "Load more" click
   const FILES = [
