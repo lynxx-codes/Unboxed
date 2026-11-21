@@ -1,0 +1,209 @@
+/* gallery.css — product gallery styles. Linked AFTER style.css in index.html */
+
+/* ============================================================
+   PRODUCT GALLERY  (84 products)
+   - Photo area has a FIXED shape, so nothing jumps while loading.
+   - Products load a batch at a time (see gallery.js).
+   - 2 columns on phones, 3 on tablets/desktop (84 divides evenly by 2 and 3).
+   ============================================================ */
+
+.gallery{ border-top: 1px solid var(--ink-line); }
+
+.gallery-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(0.6rem, 1.6vw, 1.1rem);
+}
+@media (min-width: 700px){
+  .gallery-grid{ grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+/* one product card */
+.g-card{
+  display: flex;
+  flex-direction: column;
+  background: var(--ink);
+  border: 1px solid var(--ink-line);
+  animation: g-in 520ms ease both;
+  animation-delay: calc(var(--i, 0) * 45ms);
+  transition: border-color 220ms ease;
+}
+@media (hover: hover){
+  .g-card:hover{ border-color: var(--brass); }
+}
+
+/* the photo (a button, so it can open the big view) */
+.g-item{
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;          /* change to 1 / 1 for square photos */
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-bottom: 1px solid var(--ink-line);
+  background: var(--ink-soft);
+  overflow: hidden;
+  cursor: zoom-in;
+}
+
+/* soft shimmer until the photo has loaded */
+.g-item::before{
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(100deg, transparent 30%, rgba(184,134,59,0.10) 50%, transparent 70%);
+  background-size: 200% 100%;
+  animation: g-shimmer 1.5s linear infinite;
+}
+.g-item.loaded::before{ display: none; }
+
+.g-item img{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;            /* "contain" shows the whole bottle but leaves empty bars */
+  display: block;
+  opacity: 0;
+  transform: scale(1.03);
+  transition: opacity 600ms ease, transform 900ms ease;
+}
+.g-item.loaded img{ opacity: 1; transform: scale(1); }
+@media (hover: hover){
+  .g-item.loaded:hover img{ transform: scale(1.04); }
+}
+
+/* name + size + price */
+.g-info{
+  flex: 1;
+  padding: 0.9rem 0.9rem 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.g-name{
+  font-size: clamp(1.02rem, 2.6vw, 1.3rem);
+  line-height: 1.2;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;        /* long names stop at 2 lines so cards stay even */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.4em;
+}
+.g-meta{
+  font-size: 0.8rem;
+  color: var(--brass-bright);
+  letter-spacing: 0.02em;
+}
+
+/* order link along the bottom of the card */
+.g-order{
+  display: block;
+  padding: 0.85rem 0.6rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--bone-dim);
+  border-top: 1px solid var(--ink-line);
+  transition: color 200ms ease, background 200ms ease;
+}
+.g-order:hover{ color: var(--ink); background: var(--brass); }
+
+@keyframes g-in{
+  from{ opacity: 0; transform: translateY(12px); }
+  to{ opacity: 1; transform: translateY(0); }
+}
+@keyframes g-shimmer{
+  from{ background-position: 200% 0; }
+  to{ background-position: -200% 0; }
+}
+
+.gallery-foot{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2.6rem;
+}
+.gallery-count{ font-size: 0.82rem; color: var(--bone-dim); }
+.gallery-foot .btn[hidden]{ display: none; }
+
+/* ---------------- Big view (lightbox) ---------------- */
+
+.lightbox{
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(10, 9, 8, 0.985);
+  padding: 4rem 1rem 12.5rem;   /* room at the bottom for name + order button */
+  animation: lb-fade 220ms ease;
+}
+.lightbox[hidden]{ display: none; }
+@keyframes lb-fade{ from{ opacity: 0; } to{ opacity: 1; } }
+
+.lb-img{
+  max-width: min(100%, 920px);
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  border: 1px solid var(--ink-line);
+  background: var(--ink-soft);
+}
+
+.lb-btn{
+  position: absolute;
+  background: rgba(18, 17, 16, 0.7);
+  border: 1px solid #726858;
+  color: var(--bone);
+  cursor: pointer;
+  line-height: 1;
+  transition: border-color 200ms ease, color 200ms ease;
+}
+.lb-btn:hover{ border-color: var(--brass); color: var(--brass-bright); }
+.lb-close{ top: 0.9rem; right: 0.9rem; width: 44px; height: 44px; font-size: 1.7rem; }
+.lb-nav{ top: 45%; transform: translateY(-50%); width: 44px; height: 56px; font-size: 2rem; }
+.lb-prev{ left: 0.6rem; }
+.lb-next{ right: 0.6rem; }
+
+.lb-info{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0 1rem;
+  text-align: center;
+}
+.lb-name{ font-family: var(--serif); font-size: 1.4rem; color: var(--bone); line-height: 1.2; }
+.lb-meta{ font-size: 0.85rem; color: var(--brass-bright); }
+.lb-order{
+  margin-top: 0.6rem;
+  padding: 0.7rem 1.4rem;
+  font-size: 0.82rem;
+  background: var(--brass);
+  color: var(--ink);
+  transition: background 200ms ease;
+}
+.lb-order:hover{ background: var(--brass-bright); }
+
+.lb-count{
+  position: absolute;
+  bottom: 0.8rem;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.76rem;
+  letter-spacing: 0.08em;
+  color: var(--bone-dim);
+}
+
+/* Fix: hidden "added to bag" notice was peeking up at the bottom of the screen */
+.toast{ transform: translateX(-50%) translateY(calc(100% + 3rem)); }
