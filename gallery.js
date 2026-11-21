@@ -21,7 +21,7 @@
 
   /* ----------- YOUR PRODUCT LIST ----------- */
   const PRODUCT_LIST = `
-    1.jpg |hugo  |  | 
+    1.jpg |hugo  | 50ml | 
     2.jpg |  |  | 
     3.jpg |  |  | 
     4.jpg |  |  | 
