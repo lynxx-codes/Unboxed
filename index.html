@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UNBOXED by terdòô — Luxury &amp; Niche Perfumes, Lagos</title>
+<meta name="description" content="Genuine luxury and niche perfumes in Lagos. Unboxed testers, fixed prices, nationwide delivery. Not affiliated with any of the brands.">
+<meta name="theme-color" content="#121110">
+<meta property="og:title" content="UNBOXED by terdòô — Luxury &amp; Niche Perfumes, Lagos">
+<meta property="og:description" content="Genuine luxury and niche perfumes in Lagos. Fixed prices, nationwide delivery.">
+<meta property="og:type" content="website">
+
+<!-- LOGO used as the browser-tab icon. Change the file name here if you rename your logo. -->
+<link rel="icon" href="images/BackgroundEraser_20260904_161043999.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+<!-- lets the CSS know JavaScript is running (so scroll animations can't hide content if it isn't) -->
+<script>document.documentElement.className += " js";</script>
+</head>
+<body>
+
+<!-- ============ ANNOUNCEMENT BAR (text comes from data.js → announcement) ============ -->
+<div class="promo-bar" id="promoBar" hidden>
+  <div class="wrap promo-bar-inner">
+    <p id="promoText"></p>
+    <a href="#products" class="promo-link">Shop now →</a>
+    <button type="button" class="promo-close" id="promoClose" aria-label="Dismiss announcement">&times;</button>
+  </div>
+</div>
+
+<!-- ============ NAV ============ -->
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap nav-inner">
+
+    <!-- LOGO: change the file name in src="" if you rename the logo file -->
+    <a href="#home" class="brand">
+      <img src="images/BackgroundEraser_20260904_161043999.png" alt="UNBOXED by terdòô logo" class="brand-logo">
+      <span class="brand-name">Unboxed<span class="dot">·</span><small>terdòô</small></span>
+    </a>
+
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#products">Collection</a></li>
+      <li><a href="#order">Place Order</a></li>
+      <li><a href="#reviews">Reviews</a></li>
+      <li><a href="#visit">Visit Us</a></li>
+    </ul>
+
+    <div class="nav-right">
+      <button type="button" class="bag-btn" id="openBag" aria-label="Go to your bag">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l-1 12H7L6 8z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>
+        <span class="bag-label">Bag</span>
+        <span class="bag-count" id="bagCount">0</span>
+      </button>
+      <button type="button" class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false" aria-controls="navLinks">&#9776;</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+
+<!-- ============ HERO ============ -->
+<header class="hero" id="home">
+
+  <!-- HERO PHOTO: change the file name in src="" if you rename it.
+       Its strength is set by --hero-photo-opacity at the top of style.css -->
+  <img src="images/d69882ec496a015ccbc25ba75d9e765a.jpg" alt="" class="hero-photo" aria-hidden="true">
+
+  <div class="wrap hero-content">
+    <span class="eyebrow">Luxury &amp; niche fragrance · Lagos, Nigeria</span>
+    <h1 class="hero-heading">
+      <span>The bottle,</span>
+      <span><em>unboxed</em> and true.</span>
+    </h1>
+    <p class="hero-sub">Genuine luxury and niche perfumes in Lagos, including unboxed testers. Fixed prices and nationwide delivery. We are not affiliated with any of the brands we sell.</p>
+    <div class="hero-actions">
+      <a href="#products" class="btn solid">Browse the collection</a>
+      <a href="#order" class="btn quiet">How ordering works</a>
+    </div>
+    <!-- filled from data.js → stats -->
+    <div class="hero-facts" id="heroFacts">
+      <div class="hero-fact"><b>10.4K+</b><span>Instagram posts</span></div>
+      <div class="hero-fact"><b>7,580</b><span>Instagram followers</span></div>
+      <div class="hero-fact"><b>Nationwide</b><span>Delivery</span></div>
+    </div>
+  </div>
+</header>
+
+<!-- ============ SERVICES ============ -->
+<section class="services" id="services">
+  <div class="wrap section-pad">
+    <div class="section-head reveal">
+      <h2>What we offer</h2>
+      <p>Luxury and niche fragrance, kept simple. Here is what to expect when you order.</p>
+    </div>
+
+    <div class="service-list reveal">
+      <div class="service-item">
+        <span class="service-num">01</span>
+        <h3>Genuine perfumes</h3>
+        <p>Luxury and niche brand perfumes, sold as the genuine product.</p>
+      </div>
+      <div class="service-item">
+        <span class="service-num">02</span>
+        <h3>Unboxed testers</h3>
+        <p>Ask us about unboxed tester bottles of the same fragrances.</p>
+      </div>
+      <div class="service-item">
+        <span class="service-num">03</span>
+        <h3>Fixed prices</h3>
+        <p>One price, shown upfront. No haggling and no surprises at checkout.</p>
+      </div>
+      <div class="service-item">
+        <span class="service-num">04</span>
+        <h3>Nationwide delivery</h3>
+        <p>We deliver across Nigeria. Delivery cost is confirmed with you on WhatsApp.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ COLLECTION (products come from data.js) ============ -->
+<section class="products" id="products">
+  <div class="wrap section-pad">
+    <div class="section-head reveal">
+      <h2>The collection</h2>
+      <p>Tap a photo to see it larger, or tap the bag icon to add a perfume to your order.</p>
+    </div>
+
+    <div class="toolbar">
+      <div class="filter-row" id="filterRow" role="group" aria-label="Filter by bottle size" hidden></div>
+      <div class="search">
+        <label for="searchInput" class="sr-only">Search the collection</label>
+        <input type="search" id="searchInput" placeholder="Search perfumes…" autocomplete="off">
+      </div>
+    </div>
+
+    <div class="product-grid" id="productGrid"></div>
+
+    <p class="empty-msg" id="emptyMsg" hidden>No perfumes match that search. <button type="button" class="link-btn" id="clearSearch">Show everything</button></p>
+
+    <div class="grid-foot">
+      <p class="grid-count" id="gridCount" aria-live="polite"></p>
+      <button type="button" class="btn quiet" id="loadMore" hidden>Load more perfumes</button>
+    </div>
+
+    <noscript>
+      <p class="empty-msg">This page needs JavaScript to show the collection. You can still order on WhatsApp: <a href="https://wa.me/2349065551118">message us</a>.</p>
+    </noscript>
+  </div>
+</section>
+
+<!-- ============ PLACE ORDER ============ -->
+<section class="order" id="order">
+  <div class="wrap section-pad">
+    <div class="order-grid">
+
+      <div class="reveal">
+        <span class="eyebrow">Place an order</span>
+        <h2 class="order-title">Three steps, no account needed.</h2>
+
+        <div class="order-steps">
+          <div class="order-step">
+            <span class="step-mark">I.</span>
+            <div>
+              <h3>Add to your bag</h3>
+              <p>Pick your fragrances from the collection above. Your bag is saved on this device, so you can come back to it.</p>
+            </div>
+          </div>
+          <div class="order-step">
+            <span class="step-mark">II.</span>
+            <div>
+              <h3>Confirm your details</h3>
+              <p>Tell us your name and where it is going. Nothing leaves your device until you choose to send it.</p>
+            </div>
+          </div>
+          <div class="order-step">
+            <span class="step-mark">III.</span>
+            <div>
+              <h3>Send to WhatsApp</h3>
+              <p>Your order summary opens in WhatsApp, addressed to us. We confirm stock, delivery and payment there. No card details ever touch this site.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="bag-panel reveal" id="bagPanel" role="region" aria-label="Your bag">
+        <h3>Your bag</h3>
+        <div class="bag-items" id="bagItems"></div>
+        <p class="bag-empty" id="bagEmpty">Your bag is empty. Add a fragrance from the collection to begin.</p>
+
+        <div class="bag-summary">
+          <div class="bag-summary-row"><span>Items</span><span id="sumCount">0</span></div>
+          <div class="bag-summary-row total"><span>Subtotal</span><b id="sumTotal">₦0</b></div>
+          <p class="bag-note" id="sumNote" hidden></p>
+        </div>
+
+        <form class="order-form" id="orderForm" novalidate>
+          <label class="sr-only" for="custName">Full name</label>
+          <input type="text" id="custName" placeholder="Full name" autocomplete="name" required>
+          <label class="sr-only" for="custPhone">Phone number</label>
+          <input type="tel" id="custPhone" placeholder="Phone number" autocomplete="tel" required>
+          <label class="sr-only" for="custAddress">Delivery address</label>
+          <input type="text" id="custAddress" placeholder="Delivery address / area" autocomplete="street-address" required>
+          <label class="sr-only" for="custNote">Note (optional)</label>
+          <textarea id="custNote" rows="2" placeholder="Anything else we should know? (optional)"></textarea>
+          <button type="submit" class="btn solid" id="sendOrderBtn" disabled>Send order to WhatsApp</button>
+          <p class="form-note">This opens WhatsApp with your order pre-filled. Nothing is charged here. Payment and delivery cost are confirmed with us on WhatsApp.</p>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS (from data.js → REVIEWS; Instagram card if empty) ============ -->
+<section class="reviews" id="reviews">
+  <div class="wrap section-pad">
+    <div class="section-head reveal">
+      <h2>What customers say</h2>
+      <p>Notes from people who have ordered from us.</p>
+    </div>
+    <div class="review-track reveal" id="reviewTrack"></div>
+  </div>
+</section>
+
+<!-- ============ VISIT US ============ -->
+<section class="visit" id="visit">
+  <div class="wrap section-pad">
+    <h2 class="sr-only">Visit us</h2>
+    <div class="visit-inner">
+
+      <!-- GOOGLE MAP: this is your original embed code. To change the location,
+           replace the whole src="..." value with the one from Google Maps →
+           Share → Embed a map. Do NOT add width/height here; the CSS sizes it. -->
+      <div class="visit-map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3964.699760873887!2d3.495325074992158!3d6.432599993558544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMjUnNTcuNCJOIDPCsDI5JzUyLjQiRQ!5e0!3m2!1sen!2sng!4v1789739510807!5m2!1sen!2sng"
+          title="Map showing the UNBOXED by terdòô location in Lekki, Lagos"
+          loading="lazy"
+          allowfullscreen
+          referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+
+      <div class="visit-details reveal">
+        <span class="eyebrow">Visit the shelf in person</span>
+        <p class="addr" data-text="address">Salem Lekki, Lekki, Lagos, Nigeria</p>
+        <div class="hours" id="hoursList">
+          <div><span>Monday – Saturday</span><span>10am – 7pm</span></div>
+          <div><span>Sunday</span><span>By appointment</span></div>
+        </div>
+        <div class="visit-actions">
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=Salem+Lekki%2C+Lekki%2C+Lagos%2C+Nigeria" data-link="directions" target="_blank" rel="noopener" class="btn solid">Get directions</a>
+          <a href="https://wa.me/2349065551118" data-link="whatsapp" target="_blank" rel="noopener" class="btn quiet">Chat on WhatsApp</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <a href="#home" class="brand">
+        <img src="images/BackgroundEraser_20260904_161043999.png" alt="" class="brand-logo" aria-hidden="true">
+        <span class="brand-name">Unboxed<span class="dot">·</span><small>terdòô</small></span>
+      </a>
+      <p>Genuine luxury and niche perfumes in Lagos. Fixed prices, nationwide delivery. Not affiliated with any of the brands we sell.</p>
+    </div>
+    <div class="footer-col">
+      <h3>Explore</h3>
+      <ul>
+        <li><a href="#products">Collection</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#order">Place order</a></li>
+        <li><a href="#reviews">Reviews</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h3>Contact</h3>
+      <ul>
+        <li><a href="tel:+2349065551118" data-link="tel" data-text="phone">0906 555 1118</a></li>
+        <li><a href="https://wa.me/2349065551118" data-link="whatsapp" target="_blank" rel="noopener">WhatsApp</a></li>
+        <li><a href="https://www.instagram.com/unboxed_by_terdoo" data-link="instagram" target="_blank" rel="noopener">Instagram</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h3>Visit</h3>
+      <ul>
+        <li data-text="address">Salem Lekki, Lekki, Lagos, Nigeria</li>
+        <li><a href="https://www.google.com/maps/search/?api=1&amp;query=Salem+Lekki%2C+Lekki%2C+Lagos%2C+Nigeria" data-link="directions" target="_blank" rel="noopener">Get directions</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <span>© <span id="year">2026</span> UNBOXED by terdòô. All prices fixed.</span>
+    <span>Not affiliated with any of the brands listed.</span>
+  </div>
+</footer>
+
+<!-- ============ PHOTO VIEWER ============ -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
+  <button type="button" class="lb-btn lb-close" id="lbClose" aria-label="Close viewer">&times;</button>
+  <button type="button" class="lb-btn lb-nav lb-prev" id="lbPrev" aria-label="Previous photo">&#8249;</button>
+  <img class="lb-img" id="lbImg" alt="">
+  <button type="button" class="lb-btn lb-nav lb-next" id="lbNext" aria-label="Next photo">&#8250;</button>
+  <div class="lb-info">
+    <p class="lb-name" id="lbName"></p>
+    <p class="lb-meta" id="lbMeta"></p>
+    <button type="button" class="lb-add" id="lbAdd">Add to bag</button>
+  </div>
+  <p class="lb-count" id="lbCount"></p>
+</div>
+
+<!-- ============ POP-UP MESSAGE ============ -->
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- data.js MUST come before script.js -->
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
