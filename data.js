@@ -92,7 +92,7 @@ const PRODUCT_LIST = `
     8.jpg | Diesel Bad |  |  | 
     9.jpg | Al Haramain Amber Oud |  |  | 
     10.jpg | Marc Jacobs Decadence |  |  | 
-    11.jpg |  |  |  | 
+    11.jpg | Jean Paul Gaultier Scandal |  |  | 
     12.jpg |  |  |  | 
     13.jpg |  |  |  | 
     14.jpg |  |  |  | 
