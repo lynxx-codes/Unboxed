@@ -87,7 +87,7 @@ const PRODUCT_LIST = `
     3.jpg |  |  |  | 
     4.jpg | Bvlgari Man In Black |  | 30000 | 
     5.jpg | Burberry Touch for Women |  | 30000 | 
-    6.jpg |  |  |  | 
+    6.jpg | Dolce & Gabbana K |  |  | 
     7.jpg |  |  |  | 
     8.jpg |  |  |  | 
     9.jpg |  |  |  | 
