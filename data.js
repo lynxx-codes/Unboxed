@@ -85,7 +85,7 @@ const PRODUCT_LIST = `
     1.jpg | hugo | 50ml | 20000 | 
     2.jpg | 212 VIP Black |  |30000  | 
     3.jpg |  |  |  | 
-    4.jpg | Bvlgari Man In Black |  |  | 
+    4.jpg | Bvlgari Man In Black |  | 30000 | 
     5.jpg |  |  |  | 
     6.jpg |  |  |  | 
     7.jpg |  |  |  | 
