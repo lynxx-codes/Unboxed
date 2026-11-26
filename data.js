@@ -83,7 +83,7 @@ const SETTINGS = {
    --------------------------------------------------------------------- */
 const PRODUCT_LIST = `
     1.jpg | hugo | 50ml | 20000 | 
-    2.jpg | 212 VIP Black |  |3000  | 
+    2.jpg | 212 VIP Black |  |30000  | 
     3.jpg |  |  |  | 
     4.jpg |  |  |  | 
     5.jpg |  |  |  | 
