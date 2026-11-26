@@ -82,7 +82,7 @@ const SETTINGS = {
    - Products appear in the same order as the lines below.
    --------------------------------------------------------------------- */
 const PRODUCT_LIST = `
-    1.jpg |  | 50ml | 20000 | 
+    1.jpg |  | 50ml |  | 
     2.jpg | 212 VIP Black |  |30000  | 
     3.jpg |  |  |  | 
     4.jpg | Bvlgari Man In Black |  | 30000 | 
