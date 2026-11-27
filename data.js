@@ -162,7 +162,7 @@ const PRODUCT_LIST = `
     78.jpg | Elizabeth Arden 5th Avenue NYC Downtown |  |  | 
     79.jpg | Escada Magnetism for Women |  |  | 
     80.jpg | Calvin Klein Eternity Moment |  |  | 
-    81.jpg |  |  |  | 
+    81.jpg | Afnan Supremacy Collector's Edition |  |  | 
     82.jpg |  |  |  | 
     83.jpg |  |  |  | 
     84.jpg |  |  |  | 
