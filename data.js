@@ -160,7 +160,7 @@ const PRODUCT_LIST = `
     76.jpg | Elizabeth Arden 5th Avenue |  |  | 
     77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  |  | 
     78.jpg | Elizabeth Arden 5th Avenue NYC Downtown |  |  | 
-    79.jpg |  |  |  | 
+    79.jpg | Escada Magnetism for Women |  |  | 
     80.jpg |  |  |  | 
     81.jpg |  |  |  | 
     82.jpg |  |  |  | 
