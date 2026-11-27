@@ -121,7 +121,7 @@ const PRODUCT_LIST = `
     37.jpg | Tom Ford Rose Prick 50ml |  |  | 
     38.jpg | Montblanc Lady Emblem |  |  | 
     39.jpg | Lancôme Idôle |  |  | 
-    40.jpg |  |  |  | 
+    40.jpg | Lancôme Idôle |  |  | 
     41.jpg |  |  |  | 
     42.jpg |  |  |  | 
     43.jpg |  |  |  | 
