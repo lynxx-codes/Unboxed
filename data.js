@@ -155,7 +155,7 @@ const PRODUCT_LIST = `
     71.jpg | Jimmy Choo (red faceted) |  |  | 
     72.jpg | Jean Paul Gaultier Le Male (blue torso) |  |  | 
     73.jpg | DKNY Be Delicious Fresh Blossom |  |  | 
-    74.jpg |  |  |  | 
+    74.jpg | Paco Rabanne Pure XS |  |  | 
     75.jpg |  |  |  | 
     76.jpg |  |  |  | 
     77.jpg |  |  |  | 
