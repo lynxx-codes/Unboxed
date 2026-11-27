@@ -137,7 +137,7 @@ const PRODUCT_LIST = `
     53.jpg | Karl Lagerfeld Bois de Yuzu |  |  | 
     54.jpg | Victoria's Secret Bombshell Intense |  |  | 
     55.jpg | Moschino Forever |  |  | 
-    56.jpg |  |  |  | 
+    56.jpg | Azzaro Wanted |  |  | 
     57.jpg | Azzaro Wanted |  |  | 
     58.jpg |  |  |  | 
     59.jpg |  |  |  | 
