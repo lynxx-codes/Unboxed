@@ -102,7 +102,7 @@ const PRODUCT_LIST = `
     18.jpg | Lancôme La Vie Est Belle |  |  | 
     19.jpg | Armani Code Elixir |  |  | 
     20.jpg | Giorgio Armani Si |  |  | 
-    21.jpg |  |  |  | 
+    21.jpg | Just Cavalli |  |  | 
     22.jpg |  |  |  | 
     23.jpg |  |  |  | 
     24.jpg |  |  |  | 
