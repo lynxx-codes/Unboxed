@@ -111,7 +111,7 @@ const PRODUCT_LIST = `
     27.jpg | L'Eau Kenzo Pour Femme |  |  | 
     28.jpg | Jimmy Choo Flash |  |  | 
     29.jpg | Gucci Bamboo |  |  | 
-    30.jpg |  |  |  | 
+    30.jpg | Elie Saab Girl of Now Forever |  |  | 
     31.jpg |  |  |  | 
     32.jpg |  |  |  | 
     33.jpg |  |  |  | 
