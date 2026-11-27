@@ -148,7 +148,7 @@ const PRODUCT_LIST = `
     64.jpg | Emporio Armani Stronger With You |  |  | 
     65.jpg | Jean Paul Gaultier Scandal (purple crown) |  |  | 
     66.jpg | Jean Paul Gaultier Scandal (pink) |  |  | 
-    67.jpg | Diesel Only The Brave Tattoo |  |  | 
+    67.jpg | Diesel Only The Brave Tattoo |  | 30000 | 
     68.jpg | Giorgio Armani My Way |  |  | 
     69.jpg | Guess 1981 |  |  | 
     70.jpg |  Marc Jacobs Daisy Love Eau So Sweet|  |  | 
