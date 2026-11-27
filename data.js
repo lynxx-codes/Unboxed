@@ -148,7 +148,7 @@ const PRODUCT_LIST = `
     64.jpg | Emporio Armani Stronger With You |  |  | 
     65.jpg | Jean Paul Gaultier Scandal (purple crown) |  |  | 
     66.jpg | Jean Paul Gaultier Scandal (pink) |  |  | 
-    67.jpg |  |  |  | 
+    67.jpg | Diesel Only The Brave Tattoo |  |  | 
     68.jpg |  |  |  | 
     69.jpg |  |  |  | 
     70.jpg |  |  |  | 
