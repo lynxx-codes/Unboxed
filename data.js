@@ -152,7 +152,7 @@ const PRODUCT_LIST = `
     68.jpg | Giorgio Armani My Way |  |  | 
     69.jpg | Guess 1981 |  |  | 
     70.jpg |  Marc Jacobs Daisy Love Eau So Sweet|  |  | 
-    71.jpg |  |  |  | 
+    71.jpg | Jimmy Choo (red faceted) |  |  | 
     72.jpg |  |  |  | 
     73.jpg |  |  |  | 
     74.jpg |  |  |  | 
