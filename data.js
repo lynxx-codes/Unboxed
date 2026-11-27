@@ -153,7 +153,7 @@ const PRODUCT_LIST = `
     69.jpg | Guess 1981 |  |  | 
     70.jpg |  Marc Jacobs Daisy Love Eau So Sweet|  |  | 
     71.jpg | Jimmy Choo (red faceted) |  |  | 
-    72.jpg |  |  |  | 
+    72.jpg | Jean Paul Gaultier Le Male (blue torso) |  |  | 
     73.jpg |  |  |  | 
     74.jpg |  |  |  | 
     75.jpg |  |  |  | 
