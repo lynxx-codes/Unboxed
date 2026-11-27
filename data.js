@@ -159,7 +159,7 @@ const PRODUCT_LIST = `
     75.jpg | Armani Code Colonia |  |  | 
     76.jpg | Elizabeth Arden 5th Avenue |  |  | 
     77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  |  | 
-    78.jpg |  |  |  | 
+    78.jpg | Elizabeth Arden 5th Avenue NYC Downtown |  |  | 
     79.jpg |  |  |  | 
     80.jpg |  |  |  | 
     81.jpg |  |  |  | 
