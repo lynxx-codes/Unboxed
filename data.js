@@ -158,7 +158,7 @@ const PRODUCT_LIST = `
     74.jpg | Paco Rabanne Pure XS |  |  | 
     75.jpg | Armani Code Colonia |  |  | 
     76.jpg | Elizabeth Arden 5th Avenue |  |  | 
-    77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  |  | 
+    77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  | 350000 | 
     78.jpg | Elizabeth Arden 5th Avenue NYC Downtown |  |  | 
     79.jpg | Escada Magnetism for Women |  |  | 
     80.jpg | Calvin Klein Eternity Moment |  | 30000 | 
