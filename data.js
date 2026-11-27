@@ -129,7 +129,7 @@ const PRODUCT_LIST = `
     45.jpg | Dolce & Gabbana The Only One |  |  | 
     46.jpg | Sunnamusk Amber Rose Original |  |  | 
     47.jpg | Dolce & Gabbana Light Blue Pour Homme Eau de Toilette |  |  | 
-    48.jpg |  |  |  | 
+    48.jpg | Carolina Herrera Good Girl |  |  | 
     49.jpg |  |  |  | 
     50.jpg |  |  |  | 
     51.jpg |  |  |  | 
