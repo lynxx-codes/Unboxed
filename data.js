@@ -122,7 +122,7 @@ const PRODUCT_LIST = `
     38.jpg | Montblanc Lady Emblem |  |  | 
     39.jpg |  |  |  | 
     40.jpg | Lancôme Idôle |  |  | 
-    41.jpg |  |  |  | 
+    41.jpg | Montblanc Explorer |  |  | 
     42.jpg |  |  |  | 
     43.jpg |  |  |  | 
     44.jpg |  |  |  | 
