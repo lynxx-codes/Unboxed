@@ -163,7 +163,7 @@ const PRODUCT_LIST = `
     79.jpg | Escada Magnetism for Women |  |  | 
     80.jpg | Calvin Klein Eternity Moment |  |  | 
     81.jpg | Afnan Supremacy Collector's Edition |  |  | 
-    82.jpg | Giorgio Armani My Way |  |  | 
+    82.jpg | Giorgio Armani My Way |  | 35000 | 
     83.jpg | Cerruti 1881 Femme | 30000 |  | 
     84.jpg | Hugo Boss Femme |  | 30000 | 
 `;
