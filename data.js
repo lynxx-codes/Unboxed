@@ -149,7 +149,7 @@ const PRODUCT_LIST = `
     65.jpg | Jean Paul Gaultier Scandal (purple crown) |  |  | 
     66.jpg | Jean Paul Gaultier Scandal (pink) |  |  | 
     67.jpg | Diesel Only The Brave Tattoo |  |  | 
-    68.jpg |  |  |  | 
+    68.jpg | Giorgio Armani My Way |  |  | 
     69.jpg |  |  |  | 
     70.jpg |  |  |  | 
     71.jpg |  |  |  | 
