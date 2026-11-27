@@ -165,7 +165,7 @@ const PRODUCT_LIST = `
     81.jpg | Afnan Supremacy Collector's Edition |  |  | 
     82.jpg | Giorgio Armani My Way |  |  | 
     83.jpg | Cerruti 1881 Femme |  |  | 
-    84.jpg |  |  |  | 
+    84.jpg | Hugo Boss Femme |  |  | 
 `;
 
 
