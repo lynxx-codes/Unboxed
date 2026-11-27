@@ -96,7 +96,7 @@ const PRODUCT_LIST = `
     12.jpg | Al Haramain Amber Oud Dubai Night |  |  | 
     13.jpg | Hugo Boss Hugo (red bottle) |  |  | 
     14.jpg | Hugo Boss Femme |  |  | 
-    15.jpg |  |  |  | 
+    15.jpg | Jean Paul Gaultier Scandal |  |  | 
     16.jpg |  |  |  | 
     17.jpg |  |  |  | 
     18.jpg |  |  |  | 
