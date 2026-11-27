@@ -106,7 +106,7 @@ const PRODUCT_LIST = `
     22.jpg | Marc Jacobs Daisy Love |  |  | 
     23.jpg | Emporio Armani Diamonds |  |  | 
     24.jpg | Versace Crystal Noir |  |  | 
-    25.jpg | Calvin Klein Eternity For Men Aromatic Essence |  |  | 
+    25.jpg |  |  |  | 
     26.jpg |  |  |  | 
     27.jpg |  |  |  | 
     28.jpg |  |  |  | 
