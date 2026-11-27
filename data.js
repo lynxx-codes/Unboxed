@@ -57,7 +57,7 @@ const SETTINGS = {
   filterSizes: ["50ml", "100ml"],
 
   // How many products appear before the "Load more" button
-  batchSize: 24
+  batchSize: 30
 };
 
 
