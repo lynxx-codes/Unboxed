@@ -135,7 +135,7 @@ const PRODUCT_LIST = `
     51.jpg | Givenchy Irresistible |  |  | 
     52.jpg | Lancôme La Vie Est Belle |  |  | 
     53.jpg | Karl Lagerfeld Bois de Yuzu |  |  | 
-    54.jpg |  |  |  | 
+    54.jpg | Victoria's Secret Bombshell Intense |  |  | 
     55.jpg |  |  |  | 
     56.jpg |  |  |  | 
     57.jpg |  |  |  | 
