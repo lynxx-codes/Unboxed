@@ -110,7 +110,7 @@ const PRODUCT_LIST = `
     26.jpg | Versace Dylan Turquoise Pour Femme |  |  | 
     27.jpg | L'Eau Kenzo Pour Femme |  |  | 
     28.jpg | Jimmy Choo Flash |  |  | 
-    29.jpg |  |  |  | 
+    29.jpg | Gucci Bamboo |  |  | 
     30.jpg |  |  |  | 
     31.jpg |  |  |  | 
     32.jpg |  |  |  | 
