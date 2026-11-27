@@ -140,7 +140,7 @@ const PRODUCT_LIST = `
     56.jpg | Azzaro Wanted |  |  | 
     57.jpg | Ralph Lauren Polo Red |  |  | 
     58.jpg | Romance Night by Khajal |  |  | 
-    59.jpg |  |  |  | 
+    59.jpg | Bvlgari Goldea The Roman Night Absolute |  |  | 
     60.jpg |  |  |  | 
     61.jpg |  |  |  | 
     62.jpg |  |  |  | 
