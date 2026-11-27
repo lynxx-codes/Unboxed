@@ -136,7 +136,7 @@ const PRODUCT_LIST = `
     52.jpg | Lancôme La Vie Est Belle |  |  | 
     53.jpg |  |  |  | 
     54.jpg |  |  |  | 
-    55.jpg | Chanel Allure Homme Sport Eau Extrême |  |  | 
+    55.jpg |  |  |  | 
     56.jpg |  |  |  | 
     57.jpg |  |  |  | 
     58.jpg |  |  |  | 
