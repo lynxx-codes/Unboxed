@@ -104,7 +104,7 @@ const PRODUCT_LIST = `
     20.jpg | Giorgio Armani Si |  |  | 
     21.jpg | Just Cavalli |  |  | 
     22.jpg | Marc Jacobs Daisy Love |  |  | 
-    23.jpg |  |  |  | 
+    23.jpg | Emporio Armani Diamonds |  |  | 
     24.jpg |  |  |  | 
     25.jpg |  |  |  | 
     26.jpg |  |  |  | 
