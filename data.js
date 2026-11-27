@@ -138,7 +138,7 @@ const PRODUCT_LIST = `
     54.jpg | Victoria's Secret Bombshell Intense |  |  | 
     55.jpg | Moschino Forever |  |  | 
     56.jpg | Azzaro Wanted |  |  | 
-    57.jpg | Ralph Lauren Polo Red |  |  | 
+    57.jpg | Ralph Lauren Polo Red |  | 30000 | 
     58.jpg | Romance Night by Khajal |  |  | 
     59.jpg | Bvlgari Goldea The Roman Night Absolute |  |  | 
     60.jpg | Essenza Man Elixir by Flame |  |  | 
