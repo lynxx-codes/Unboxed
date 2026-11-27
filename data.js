@@ -143,7 +143,7 @@ const PRODUCT_LIST = `
     59.jpg | Bvlgari Goldea The Roman Night Absolute |  |  | 
     60.jpg | Essenza Man Elixir by Flame |  |  | 
     61.jpg | Noir by Khajal |  |  | 
-    62.jpg | Noir by Khajal |  |  | 
+    62.jpg | Aesop Miraceti Eau de Parfum |  |  | 
     63.jpg |  |  |  | 
     64.jpg |  |  |  | 
     65.jpg |  |  |  | 
