@@ -108,7 +108,7 @@ const PRODUCT_LIST = `
     24.jpg | Calvin Klein Eternity For Men Aromatic Essence |  |  | 
     25.jpg | Versace Crystal Noir |  |  | 
     26.jpg | Versace Dylan Turquoise Pour Femme |  |  | 
-    27.jpg |  |  |  | 
+    27.jpg | L'Eau Kenzo Pour Femme |  |  | 
     28.jpg |  |  |  | 
     29.jpg |  |  |  | 
     30.jpg |  |  |  | 
