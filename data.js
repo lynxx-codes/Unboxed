@@ -151,7 +151,7 @@ const PRODUCT_LIST = `
     67.jpg | Diesel Only The Brave Tattoo |  |  | 
     68.jpg | Giorgio Armani My Way |  |  | 
     69.jpg | Guess 1981 |  |  | 
-    70.jpg |  |  |  | 
+    70.jpg |  Marc Jacobs Daisy Love Eau So Sweet|  |  | 
     71.jpg |  |  |  | 
     72.jpg |  |  |  | 
     73.jpg |  |  |  | 
