@@ -133,7 +133,7 @@ const PRODUCT_LIST = `
     49.jpg | Davidoff Cool Water |  |  | 
     50.jpg | Chanel Allure Homme Sport Eau Extrême |  |  | 
     51.jpg | Givenchy Irresistible |  |  | 
-    52.jpg |  |  |  | 
+    52.jpg | Lancôme La Vie Est Belle |  |  | 
     53.jpg |  |  |  | 
     54.jpg |  |  |  | 
     55.jpg |  |  |  | 
