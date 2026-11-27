@@ -103,7 +103,7 @@ const PRODUCT_LIST = `
     19.jpg | Armani Code Elixir |  |  | 
     20.jpg | Giorgio Armani Si |  |  | 
     21.jpg | Just Cavalli |  |  | 
-    22.jpg |  |  |  | 
+    22.jpg | Marc Jacobs Daisy Love |  |  | 
     23.jpg |  |  |  | 
     24.jpg |  |  |  | 
     25.jpg |  |  |  | 
