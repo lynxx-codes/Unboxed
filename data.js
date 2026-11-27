@@ -109,7 +109,7 @@ const PRODUCT_LIST = `
     25.jpg | Versace Crystal Noir |  |  | 
     26.jpg | Versace Dylan Turquoise Pour Femme |  |  | 
     27.jpg | L'Eau Kenzo Pour Femme |  |  | 
-    28.jpg |  |  |  | 
+    28.jpg | Jimmy Choo Flash |  |  | 
     29.jpg |  |  |  | 
     30.jpg |  |  |  | 
     31.jpg |  |  |  | 
