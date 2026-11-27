@@ -93,7 +93,7 @@ const PRODUCT_LIST = `
     9.jpg | Al Haramain Amber Oud |  |  | 
     10.jpg | Marc Jacobs Decadence |  |  | 
     11.jpg | Jean Paul Gaultier Scandal |  |  | 
-    12.jpg |  |  |  | 
+    12.jpg | Al Haramain Amber Oud Dubai Night |  |  | 
     13.jpg |  |  |  | 
     14.jpg |  |  |  | 
     15.jpg |  |  |  | 
