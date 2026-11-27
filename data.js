@@ -147,7 +147,7 @@ const PRODUCT_LIST = `
     63.jpg | Narciso Rodriguez All Of Me |  |  | 
     64.jpg | Emporio Armani Stronger With You |  |  | 
     65.jpg | Jean Paul Gaultier Scandal (purple crown) |  |  | 
-    66.jpg |  |  |  | 
+    66.jpg | Jean Paul Gaultier Scandal (pink) |  |  | 
     67.jpg |  |  |  | 
     68.jpg |  |  |  | 
     69.jpg |  |  |  | 
