@@ -125,7 +125,7 @@ const PRODUCT_LIST = `
     41.jpg | Montblanc Explorer |  |  | 
     42.jpg | Bleu de Chanel Eau de Parfum |  |  | 
     43.jpg | Lancôme Trésor |  |  | 
-    44.jpg |  |  |  | 
+    44.jpg | Gucci Flora Gorgeous Jasmine |  |  | 
     45.jpg |  |  |  | 
     46.jpg |  |  |  | 
     47.jpg |  |  |  | 
