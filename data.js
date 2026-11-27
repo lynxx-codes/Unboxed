@@ -123,7 +123,7 @@ const PRODUCT_LIST = `
     39.jpg |  |  |  | 
     40.jpg | Lancôme Idôle |  |  | 
     41.jpg | Montblanc Explorer |  |  | 
-    42.jpg |  |  |  | 
+    42.jpg | Bleu de Chanel Eau de Parfum |  |  | 
     43.jpg |  |  |  | 
     44.jpg |  |  |  | 
     45.jpg |  |  |  | 
