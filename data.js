@@ -115,7 +115,7 @@ const PRODUCT_LIST = `
     31.jpg | Bvlgari Man Wood Neroli |  |  | 
     32.jpg | Dior Sauvage |  |  | 
     33.jpg | Reefer 2 Hair & Body |  |  | 
-    34.jpg | Giorgio Armani Si Passione |  |  | 
+    34.jpg |  |  |  | 
     35.jpg |  |  |  | 
     36.jpg |  |  |  | 
     37.jpg |  |  |  | 
