@@ -107,7 +107,7 @@ const PRODUCT_LIST = `
     23.jpg | Emporio Armani Diamonds |  |  | 
     24.jpg | Versace Crystal Noir |  |  | 
     25.jpg | Calvin Klein Eternity For Men Aromatic Essence |  |  | 
-    26.jpg | Versace Dylan Turquoise Pour Femme |  |  | 
+    26.jpg |  |  |  | 
     27.jpg |  |  |  | 
     28.jpg |  |  |  | 
     29.jpg |  |  |  | 
