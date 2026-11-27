@@ -158,7 +158,7 @@ const PRODUCT_LIST = `
     74.jpg | Paco Rabanne Pure XS |  |  | 
     75.jpg | Armani Code Colonia |  |  | 
     76.jpg | Elizabeth Arden 5th Avenue |  |  | 
-    77.jpg |  |  |  | 
+    77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  |  | 
     78.jpg |  |  |  | 
     79.jpg |  |  |  | 
     80.jpg |  |  |  | 
