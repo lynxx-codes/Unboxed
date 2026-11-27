@@ -141,7 +141,7 @@ const PRODUCT_LIST = `
     57.jpg | Ralph Lauren Polo Red |  |  | 
     58.jpg | Romance Night by Khajal |  |  | 
     59.jpg | Bvlgari Goldea The Roman Night Absolute |  |  | 
-    60.jpg |  |  |  | 
+    60.jpg | Essenza Man Elixir by Flame |  |  | 
     61.jpg |  |  |  | 
     62.jpg |  |  |  | 
     63.jpg |  |  |  | 
