@@ -99,7 +99,7 @@ const PRODUCT_LIST = `
     15.jpg | Jean Paul Gaultier Scandal |  |  | 
     16.jpg | Michael Kors Gorgeous |  |  | 
     17.jpg | Armaf Club De Nuit Precieux I |  |  | 
-    18.jpg |  |  |  | 
+    18.jpg | Lancôme La Vie Est Belle |  |  | 
     19.jpg |  |  |  | 
     20.jpg |  |  |  | 
     21.jpg |  |  |  | 
