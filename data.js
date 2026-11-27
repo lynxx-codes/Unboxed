@@ -126,7 +126,7 @@ const PRODUCT_LIST = `
     42.jpg | Bleu de Chanel Eau de Parfum |  |  | 
     43.jpg | Lancôme Trésor |  |  | 
     44.jpg | Gucci Flora Gorgeous Jasmine |  |  | 
-    45.jpg |  |  |  | 
+    45.jpg | Dolce & Gabbana The Only One |  |  | 
     46.jpg |  |  |  | 
     47.jpg |  |  |  | 
     48.jpg |  |  |  | 
