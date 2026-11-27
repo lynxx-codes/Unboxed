@@ -139,7 +139,7 @@ const PRODUCT_LIST = `
     55.jpg | Moschino Forever |  |  | 
     56.jpg | Azzaro Wanted |  |  | 
     57.jpg | Ralph Lauren Polo Red |  |  | 
-    58.jpg |  |  |  | 
+    58.jpg | Romance Night by Khajal |  |  | 
     59.jpg |  |  |  | 
     60.jpg |  |  |  | 
     61.jpg |  |  |  | 
