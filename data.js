@@ -141,7 +141,7 @@ const PRODUCT_LIST = `
     57.jpg | Ralph Lauren Polo Red |  | 30000 | 
     58.jpg | Romance Night by Khajal |  | 45000 | 
     59.jpg | Bvlgari Goldea The Roman Night Absolute |  | 35000 | 
-    60.jpg | Essenza Man Elixir by Flame |  | 3000 | 
+    60.jpg | Essenza Man Elixir by Flame |  | 30000 | 
     61.jpg | Noir by Khajal |  |  | 
     62.jpg | Aesop Miraceti Eau de Parfum |  |  | 
     63.jpg | Narciso Rodriguez All Of Me |  |  | 
