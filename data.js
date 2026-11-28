@@ -42,7 +42,7 @@ const SETTINGS = {
 
   // A banner across the top of the page (for sales etc.).
   // Leave as "" for no banner.   Example: "50ML SALES — limited pieces available."
-  announcement: "50ml sales - limited available",
+  announcement: "50ml sales - limited prices available",
 
   // Folder that holds your product photos (the logo and hero photo are set in index.html)
   imageFolder: "images/",
