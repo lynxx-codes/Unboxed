@@ -83,7 +83,7 @@ const SETTINGS = {
    --------------------------------------------------------------------- */
 const PRODUCT_LIST = `
     2.jpg | 212 VIP Black |  |30000  | 
-    3.jpg |  |  |  | 
+    3.jpg |  |  | 
     4.jpg | Bvlgari Man In Black |  | 30000 | 
     5.jpg | Burberry Touch for Women |  | 30000 | 
     6.jpg | Dolce & Gabbana K |  | 30000 | 
