@@ -178,4 +178,6 @@ const PRODUCT_LIST = `
    --------------------------------------------------------------------- */
 const REVIEWS = [
   { name: "Not shown", area: "Not mentioned", stars: 4, text: "I love it. Thank you so much. Been following u for a while now." },
+
+  
 ];
