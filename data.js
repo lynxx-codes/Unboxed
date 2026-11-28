@@ -121,7 +121,7 @@ const PRODUCT_LIST = `
     37.jpg | Tom Ford Rose Prick 50ml |  | 60000 | 
     38.jpg | Montblanc Lady Emblem |  | 30000 | 
     39.jpg |  |  |  | 
-    40.jpg | Lancôme Idôle |  |  | 
+    40.jpg | Lancôme Idôle |  | 30000 | 
     41.jpg | Montblanc Explorer |  |  | 
     42.jpg | Bleu de Chanel Eau de Parfum |  |  | 
     43.jpg | Lancôme Trésor |  |  | 
