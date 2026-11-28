@@ -124,7 +124,7 @@ const PRODUCT_LIST = `
     40.jpg | Lancôme Idôle |  | 30000 | 
     41.jpg | Montblanc Explorer |  | 30000 | 
     42.jpg | Bleu de Chanel Eau de Parfum |  | 35000 | 
-    43.jpg | Lancôme Trésor |  |  | 
+    43.jpg | Lancôme Trésor |  | 30000 | 
     44.jpg | Gucci Flora Gorgeous Jasmine |  |  | 
     45.jpg | Dolce & Gabbana The Only One |  |  | 
     46.jpg | Sunnamusk Amber Rose Original |  |  | 
