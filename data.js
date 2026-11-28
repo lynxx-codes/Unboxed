@@ -117,7 +117,7 @@ const PRODUCT_LIST = `
     33.jpg | Reefer 2 Hair & Body |  | 40000 | 
     34.jpg | Calvin Klein Women |  | 30000 | 
     35.jpg | Giorgio Armani Si Passione |  | 35000 | 
-    36.jpg | Dolce & Gabbana Q |  |  | 
+    36.jpg | Dolce & Gabbana Q |  | 30000 | 
     37.jpg | Tom Ford Rose Prick 50ml |  |  | 
     38.jpg | Montblanc Lady Emblem |  |  | 
     39.jpg |  |  |  | 
