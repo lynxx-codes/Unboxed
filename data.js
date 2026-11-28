@@ -157,7 +157,7 @@ const PRODUCT_LIST = `
     73.jpg | DKNY Be Delicious Fresh Blossom |  | 30000 | 
     74.jpg | Paco Rabanne Pure XS |  | 30000 | 
     75.jpg | Armani Code Colonia |  | 30000 | 
-    76.jpg | Elizabeth Arden 5th Avenue |  |  | 
+    76.jpg | Elizabeth Arden 5th Avenue |  | 30000 | 
     77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  | 35000 | 
     78.jpg | Elizabeth Arden 5th Avenue NYC Downtown |  |  | 
     79.jpg | Escada Magnetism for Women |  |  | 
