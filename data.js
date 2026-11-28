@@ -184,5 +184,6 @@ const REVIEWS = [
   { name: "Not shown", area: "Not mentioned", stars: 5, text: "Smells amazing. Best blind buy for fresh scent ever! Awesome." },
 
   { name: "Not shown", area: "Not mentioned", stars: 5, text: "Finally took delivery of the Queen of silk. My God. It is so beautiful. I’m so glad I was able to get it at such an affordable rate from you. Thank you for the professional service as usual. Feel free to post this review." },
+
   
 ];
