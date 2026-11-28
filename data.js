@@ -102,7 +102,7 @@ const PRODUCT_LIST = `
     18.jpg | Lancôme La Vie Est Belle |  | 30000 | 
     19.jpg | Armani Code Elixir |  | 40000 | 
     20.jpg | Giorgio Armani Si |  | 35000 | 
-    21.jpg | Just Cavalli |  |  | 
+    21.jpg | Just Cavalli |  | 35000 | 
     22.jpg | Marc Jacobs Daisy Love |  |  | 
     23.jpg | Emporio Armani Diamonds |  |  | 
     24.jpg | Calvin Klein Eternity For Men Aromatic Essence |  |  | 
