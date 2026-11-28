@@ -135,7 +135,7 @@ const PRODUCT_LIST = `
     51.jpg | Givenchy Irresistible |  | 35000 | 
     52.jpg | Lancôme La Vie Est Belle |  | 30000 | 
     53.jpg | Karl Lagerfeld Bois de Yuzu |  | 35000 | 
-    54.jpg | Victoria's Secret Bombshell Intense |  |  | 
+    54.jpg | Victoria's Secret Bombshell Intense |  | 30000 | 
     55.jpg | Moschino Forever |  |  | 
     56.jpg | Azzaro Wanted |  |  | 
     57.jpg | Ralph Lauren Polo Red |  | 30000 | 
