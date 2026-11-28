@@ -179,5 +179,5 @@ const PRODUCT_LIST = `
 const REVIEWS = [
   { name: "Not shown", area: "Not mentioned", stars: 4, text: "I love it. Thank you so much. Been following u for a while now." },
 
-  
+  { name: "Not shown", area: "Not mentioned", stars: 5, text: "I love it. Don’t worry, you’ve got yourself a new and loyal customer." },
 ];
