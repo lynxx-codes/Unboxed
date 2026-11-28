@@ -155,7 +155,7 @@ const PRODUCT_LIST = `
     71.jpg | Jimmy Choo (red faceted) |  | 30000 | 
     72.jpg | Jean Paul Gaultier Le Male (blue torso) |  | 35000 | 
     73.jpg | DKNY Be Delicious Fresh Blossom |  | 30000 | 
-    74.jpg | Paco Rabanne Pure XS |  |  | 
+    74.jpg | Paco Rabanne Pure XS |  | 30000 | 
     75.jpg | Armani Code Colonia |  |  | 
     76.jpg | Elizabeth Arden 5th Avenue |  |  | 
     77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  | 35000 | 
