@@ -181,5 +181,5 @@ const REVIEWS = [
 
   { name: "Not shown", area: "Not mentioned", stars: 5, text: "I love it. Don’t worry, you’ve got yourself a new and loyal customer." },
 
-  
+  { name: "Not shown", area: "Not mentioned", stars: 5, text: "Smells amazing. Best blind buy for fresh scent ever! Awesome." },
 ];
