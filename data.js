@@ -89,7 +89,7 @@ const PRODUCT_LIST = `
     5.jpg | Burberry Touch for Women |  | 30000 | 
     6.jpg | Dolce & Gabbana K |  | 30000 | 
     7.jpg | Narciso Rodriguez for Her |  | 30000 | 
-    8.jpg | Diesel Bad |  |  | 
+    8.jpg | Diesel Bad |  | 40000 | 
     9.jpg | Al Haramain Amber Oud |  |  | 
     10.jpg | Marc Jacobs Decadence |  |  | 
     11.jpg | Jean Paul Gaultier Scandal |  |  | 
