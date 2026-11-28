@@ -107,7 +107,7 @@ const PRODUCT_LIST = `
     23.jpg | Emporio Armani Diamonds |  | 30000 | 
     24.jpg | Calvin Klein Eternity For Men Aromatic Essence |  | 30000 | 
     25.jpg | Versace Crystal Noir |  | 35000 | 
-    26.jpg | Versace Dylan Turquoise Pour Femme |  |  | 
+    26.jpg | Versace Dylan Turquoise Pour Femme |  | 30000 | 
     27.jpg | L'Eau Kenzo Pour Femme |  |  | 
     28.jpg | Jimmy Choo Flash |  |  | 
     29.jpg | Gucci Bamboo |  |  | 
