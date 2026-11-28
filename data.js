@@ -177,4 +177,5 @@ const PRODUCT_LIST = `
      { name: "First name + initial", area: "Lekki", stars: 5, text: "What they said." },
    --------------------------------------------------------------------- */
 const REVIEWS = [
+  
 ];
