@@ -118,7 +118,7 @@ const PRODUCT_LIST = `
     34.jpg | Calvin Klein Women |  | 30000 | 
     35.jpg | Giorgio Armani Si Passione |  | 35000 | 
     36.jpg | Dolce & Gabbana Q |  | 30000 | 
-    37.jpg | Tom Ford Rose Prick 50ml |  |  | 
+    37.jpg | Tom Ford Rose Prick 50ml |  | 60000 | 
     38.jpg | Montblanc Lady Emblem |  |  | 
     39.jpg |  |  |  | 
     40.jpg | Lancôme Idôle |  |  | 
