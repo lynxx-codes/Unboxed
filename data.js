@@ -88,7 +88,7 @@ const PRODUCT_LIST = `
     4.jpg | Bvlgari Man In Black |  | 30000 | 
     5.jpg | Burberry Touch for Women |  | 30000 | 
     6.jpg | Dolce & Gabbana K |  | 30000 | 
-    7.jpg | Narciso Rodriguez for Her |  |  | 
+    7.jpg | Narciso Rodriguez for Her |  | 30000 | 
     8.jpg | Diesel Bad |  |  | 
     9.jpg | Al Haramain Amber Oud |  |  | 
     10.jpg | Marc Jacobs Decadence |  |  | 
