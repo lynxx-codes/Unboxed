@@ -128,7 +128,7 @@ const PRODUCT_LIST = `
     44.jpg | Gucci Flora Gorgeous Jasmine |  | 35000 | 
     45.jpg | Dolce & Gabbana The Only One |  | 35000 | 
     46.jpg | Sunnamusk Amber Rose Original |  | 30000 | 
-    47.jpg | Dolce & Gabbana Light Blue Pour Homme Eau de Toilette |  |  | 
+    47.jpg | Dolce & Gabbana Light Blue Pour Homme Eau de Toilette |  | 35000 | 
     48.jpg | Carolina Herrera Good Girl |  |  | 
     49.jpg | Davidoff Cool Water |  |  | 
     50.jpg | Chanel Allure Homme Sport Eau Extrême |  | 35000 | 
