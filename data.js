@@ -82,8 +82,7 @@ const SETTINGS = {
    - Products appear in the same order as the lines below.
    --------------------------------------------------------------------- */
 const PRODUCT_LIST = `
-    2.jpg | 212 VIP Black |  |30000  | 
-    3.jpg |  |  | 
+    2.jpg | 212 VIP Black |  |30000  |
     4.jpg | Bvlgari Man In Black |  | 30000 | 
     5.jpg | Burberry Touch for Women |  | 30000 | 
     6.jpg | Dolce & Gabbana K |  | 30000 | 
