@@ -127,7 +127,7 @@ const PRODUCT_LIST = `
     43.jpg | Lancôme Trésor |  | 30000 | 
     44.jpg | Gucci Flora Gorgeous Jasmine |  | 35000 | 
     45.jpg | Dolce & Gabbana The Only One |  | 35000 | 
-    46.jpg | Sunnamusk Amber Rose Original |  |  | 
+    46.jpg | Sunnamusk Amber Rose Original |  | 30000 | 
     47.jpg | Dolce & Gabbana Light Blue Pour Homme Eau de Toilette |  |  | 
     48.jpg | Carolina Herrera Good Girl |  |  | 
     49.jpg | Davidoff Cool Water |  |  | 
