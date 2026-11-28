@@ -114,7 +114,7 @@ const PRODUCT_LIST = `
     30.jpg | Elie Saab Girl of Now Forever |  | 30000 | 
     31.jpg | Bvlgari Man Wood Neroli |  | 30000 | 
     32.jpg | Dior Sauvage |  | 35000 | 
-    33.jpg | Reefer 2 Hair & Body |  |  | 
+    33.jpg | Reefer 2 Hair & Body |  | 40000 | 
     34.jpg | Calvin Klein Women |  |  | 
     35.jpg | Giorgio Armani Si Passione |  |  | 
     36.jpg | Dolce & Gabbana Q |  |  | 
