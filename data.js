@@ -134,7 +134,7 @@ const PRODUCT_LIST = `
     50.jpg | Chanel Allure Homme Sport Eau Extrême |  | 35000 | 
     51.jpg | Givenchy Irresistible |  | 35000 | 
     52.jpg | Lancôme La Vie Est Belle |  | 30000 | 
-    53.jpg | Karl Lagerfeld Bois de Yuzu |  |  | 
+    53.jpg | Karl Lagerfeld Bois de Yuzu |  | 35000 | 
     54.jpg | Victoria's Secret Bombshell Intense |  |  | 
     55.jpg | Moschino Forever |  |  | 
     56.jpg | Azzaro Wanted |  |  | 
