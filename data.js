@@ -139,7 +139,7 @@ const PRODUCT_LIST = `
     55.jpg | Moschino Forever |  |  30000| 
     56.jpg | Azzaro Wanted |  | 30000 | 
     57.jpg | Ralph Lauren Polo Red |  | 30000 | 
-    58.jpg | Romance Night by Khajal |  |  | 
+    58.jpg | Romance Night by Khajal |  | 45000 | 
     59.jpg | Bvlgari Goldea The Roman Night Absolute |  |  | 
     60.jpg | Essenza Man Elixir by Flame |  |  | 
     61.jpg | Noir by Khajal |  |  | 
