@@ -133,7 +133,7 @@ const PRODUCT_LIST = `
     49.jpg | Davidoff Cool Water |  | 30000 | 
     50.jpg | Chanel Allure Homme Sport Eau Extrême |  | 35000 | 
     51.jpg | Givenchy Irresistible |  | 35000 | 
-    52.jpg | Lancôme La Vie Est Belle |  |  | 
+    52.jpg | Lancôme La Vie Est Belle |  | 30000 | 
     53.jpg | Karl Lagerfeld Bois de Yuzu |  |  | 
     54.jpg | Victoria's Secret Bombshell Intense |  |  | 
     55.jpg | Moschino Forever |  |  | 
