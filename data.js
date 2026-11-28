@@ -146,7 +146,7 @@ const PRODUCT_LIST = `
     62.jpg | Aesop Miraceti Eau de Parfum |  | 40000 | 
     63.jpg | Narciso Rodriguez All Of Me |  | 30000 | 
     64.jpg | Emporio Armani Stronger With You |  | 40000 | 
-    65.jpg | Jean Paul Gaultier Scandal (purple crown) |  |  | 
+    65.jpg | Jean Paul Gaultier Scandal (purple crown) |  | 35000 | 
     66.jpg | Jean Paul Gaultier Scandal (pink) |  |  | 
     67.jpg | Diesel Only The Brave Tattoo |  | 30000 | 
     68.jpg | Giorgio Armani My Way |  |  | 
