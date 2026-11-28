@@ -109,7 +109,7 @@ const PRODUCT_LIST = `
     25.jpg | Versace Crystal Noir |  | 35000 | 
     26.jpg | Versace Dylan Turquoise Pour Femme |  | 30000 | 
     27.jpg | L'Eau Kenzo Pour Femme |  | 30000 | 
-    28.jpg | Jimmy Choo Flash |  |  | 
+    28.jpg | Jimmy Choo Flash |  | 30000 | 
     29.jpg | Gucci Bamboo |  |  | 
     30.jpg | Elie Saab Girl of Now Forever |  |  | 
     31.jpg | Bvlgari Man Wood Neroli |  |  | 
