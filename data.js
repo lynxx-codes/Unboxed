@@ -130,7 +130,7 @@ const PRODUCT_LIST = `
     46.jpg | Sunnamusk Amber Rose Original |  | 30000 | 
     47.jpg | Dolce & Gabbana Light Blue Pour Homme Eau de Toilette |  | 35000 | 
     48.jpg | Carolina Herrera Good Girl |  | 30000 | 
-    49.jpg | Davidoff Cool Water |  |  | 
+    49.jpg | Davidoff Cool Water |  | 30000 | 
     50.jpg | Chanel Allure Homme Sport Eau Extrême |  | 35000 | 
     51.jpg | Givenchy Irresistible |  |  | 
     52.jpg | Lancôme La Vie Est Belle |  |  | 
