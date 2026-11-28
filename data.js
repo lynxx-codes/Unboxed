@@ -93,7 +93,7 @@ const PRODUCT_LIST = `
     9.jpg | Al Haramain Amber Oud |  | 45000 | 
     10.jpg | Marc Jacobs Decadence |  | 35000 | 
     11.jpg | Jean Paul Gaultier Scandal |  | 35000 | 
-    12.jpg | Al Haramain Amber Oud Dubai Night |  |  | 
+    12.jpg | Al Haramain Amber Oud Dubai Night |  | 45000 | 
     13.jpg | Hugo Boss Hugo (red bottle) |  | 30000 | 
     14.jpg | Hugo Boss Femme |  |  | 
     15.jpg | Jean Paul Gaultier Scandal |  |  | 
