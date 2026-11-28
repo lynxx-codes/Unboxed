@@ -103,7 +103,7 @@ const PRODUCT_LIST = `
     19.jpg | Armani Code Elixir |  | 40000 | 
     20.jpg | Giorgio Armani Si |  | 35000 | 
     21.jpg | Just Cavalli |  | 35000 | 
-    22.jpg | Marc Jacobs Daisy Love |  |  | 
+    22.jpg | Marc Jacobs Daisy Love |  | 30000 | 
     23.jpg | Emporio Armani Diamonds |  |  | 
     24.jpg | Calvin Klein Eternity For Men Aromatic Essence |  |  | 
     25.jpg | Versace Crystal Noir |  |  | 
