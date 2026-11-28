@@ -99,7 +99,7 @@ const PRODUCT_LIST = `
     15.jpg | Jean Paul Gaultier Scandal |  | 35000 | 
     16.jpg | Michael Kors Gorgeous |  | 30000 | 
     17.jpg | Armaf Club De Nuit Precieux I |  | 35000 | 
-    18.jpg | Lancôme La Vie Est Belle |  |  | 
+    18.jpg | Lancôme La Vie Est Belle |  | 30000 | 
     19.jpg | Armani Code Elixir |  |  | 
     20.jpg | Giorgio Armani Si |  |  | 
     21.jpg | Just Cavalli |  |  | 
