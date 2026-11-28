@@ -164,7 +164,7 @@ const PRODUCT_LIST = `
     80.jpg | Calvin Klein Eternity Moment |  | 30000 | 
     81.jpg | Afnan Supremacy Collector's Edition |  |  | 
     82.jpg | Giorgio Armani My Way |  | 35000 | 
-    83.jpg | Cerruti 1881 Femme | 30000 |  | 
+    83.jpg | Cerruti 1881 Femme |  |  | 
     84.jpg | Hugo Boss Femme |  | 30000 | 
 `;
 
