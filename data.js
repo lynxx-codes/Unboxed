@@ -136,7 +136,7 @@ const PRODUCT_LIST = `
     52.jpg | Lancôme La Vie Est Belle |  | 30000 | 
     53.jpg | Karl Lagerfeld Bois de Yuzu |  | 35000 | 
     54.jpg | Victoria's Secret Bombshell Intense |  | 35000 | 
-    55.jpg | Moschino Forever |  |  | 
+    55.jpg | Moschino Forever |  |  30000| 
     56.jpg | Azzaro Wanted |  |  | 
     57.jpg | Ralph Lauren Polo Red |  | 30000 | 
     58.jpg | Romance Night by Khajal |  |  | 
