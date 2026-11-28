@@ -154,7 +154,7 @@ const PRODUCT_LIST = `
     70.jpg |  Marc Jacobs Daisy Love Eau So Sweet|  | 30000 | 
     71.jpg | Jimmy Choo (red faceted) |  | 30000 | 
     72.jpg | Jean Paul Gaultier Le Male (blue torso) |  | 35000 | 
-    73.jpg | DKNY Be Delicious Fresh Blossom |  |  | 
+    73.jpg | DKNY Be Delicious Fresh Blossom |  | 30000 | 
     74.jpg | Paco Rabanne Pure XS |  |  | 
     75.jpg | Armani Code Colonia |  |  | 
     76.jpg | Elizabeth Arden 5th Avenue |  |  | 
