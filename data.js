@@ -122,7 +122,7 @@ const PRODUCT_LIST = `
     38.jpg | Montblanc Lady Emblem |  | 30000 | 
     39.jpg |  |  |  | 
     40.jpg | Lancôme Idôle |  | 30000 | 
-    41.jpg | Montblanc Explorer |  |  | 
+    41.jpg | Montblanc Explorer |  | 30000 | 
     42.jpg | Bleu de Chanel Eau de Parfum |  |  | 
     43.jpg | Lancôme Trésor |  |  | 
     44.jpg | Gucci Flora Gorgeous Jasmine |  |  | 
