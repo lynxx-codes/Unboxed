@@ -160,7 +160,7 @@ const PRODUCT_LIST = `
     76.jpg | Elizabeth Arden 5th Avenue |  | 30000 | 
     77.jpg | Yves Saint Laurent MYSLF Eau de Parfum |  | 35000 | 
     78.jpg | Elizabeth Arden 5th Avenue NYC Downtown |  | 30000 | 
-    79.jpg | Escada Magnetism for Women |  |  | 
+    79.jpg | Escada Magnetism for Women |  | 30000 | 
     80.jpg | Calvin Klein Eternity Moment |  | 30000 | 
     81.jpg | Afnan Supremacy Collector's Edition |  |  | 
     82.jpg | Giorgio Armani My Way |  | 35000 | 
