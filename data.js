@@ -144,7 +144,7 @@ const PRODUCT_LIST = `
     60.jpg | Essenza Man Elixir by Flame |  | 30000 | 
     61.jpg | Noir by Khajal |  | 45000 | 
     62.jpg | Aesop Miraceti Eau de Parfum |  | 40000 | 
-    63.jpg | Narciso Rodriguez All Of Me |  |  | 
+    63.jpg | Narciso Rodriguez All Of Me |  | 30000 | 
     64.jpg | Emporio Armani Stronger With You |  |  | 
     65.jpg | Jean Paul Gaultier Scandal (purple crown) |  |  | 
     66.jpg | Jean Paul Gaultier Scandal (pink) |  |  | 
