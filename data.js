@@ -188,4 +188,6 @@ const REVIEWS = [
   { name: "", area: "", stars: 5, text: "All of your perfume are so hard to stop smelling from my cloths after wash ooo. My dry cleaner just ask me just now that how do I use my perfume that it’s so hard to stop smelling after washing my cloths. This 50ml are great and it’s just too perfect." },
 
   { name: "", area: "", stars: 4.5, text: "Thanks chief… I just got in. My gate Guy helped me get it. I don unwrap all. These selections dey smell before I unwrap. Thanks God blesso chai" },
+
+  { name: "Not shown", area: "Not mentioned", stars: 5, text: "These would make it my 9th bottle from you and You've never disappointed me. I referred you to My friends and sis and they are also pleased. You've saved us money by selling genuine fragrances at affordable prices. Thank you !!! My perfume collection is about to be litttt. Thank you so much." },
 ];
