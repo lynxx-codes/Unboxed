@@ -150,7 +150,7 @@ const PRODUCT_LIST = `
     66.jpg | Jean Paul Gaultier Scandal (pink) |  | 35000 | 
     67.jpg | Diesel Only The Brave Tattoo |  | 30000 | 
     68.jpg | Giorgio Armani My Way |  | 35000 | 
-    69.jpg | Guess 1981 |  |  | 
+    69.jpg | Guess 1981 |  | 40000 | 
     70.jpg |  Marc Jacobs Daisy Love Eau So Sweet|  |  | 
     71.jpg | Jimmy Choo (red faceted) |  |  | 
     72.jpg | Jean Paul Gaultier Le Male (blue torso) |  |  | 
