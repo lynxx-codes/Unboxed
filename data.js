@@ -101,7 +101,7 @@ const PRODUCT_LIST = `
     17.jpg | Armaf Club De Nuit Precieux I |  | 35000 | 
     18.jpg | Lancôme La Vie Est Belle |  | 30000 | 
     19.jpg | Armani Code Elixir |  | 40000 | 
-    20.jpg | Giorgio Armani Si |  |  | 
+    20.jpg | Giorgio Armani Si |  | 35000 | 
     21.jpg | Just Cavalli |  |  | 
     22.jpg | Marc Jacobs Daisy Love |  |  | 
     23.jpg | Emporio Armani Diamonds |  |  | 
